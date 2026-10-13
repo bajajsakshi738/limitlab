@@ -1,0 +1,12 @@
+# local key hashes and secrets
+keys.local.json
+.env
+
+# binaries
+/api
+/keygen
+*.exe
+
+.DS_Store
+.idea/
+.vscode/
